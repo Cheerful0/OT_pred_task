@@ -1,2 +1,2 @@
 # OT_pred_task
-to finish the Machine Learning Course Project about electricity prediction
+to finish the machine learning course project about electricity prediction
